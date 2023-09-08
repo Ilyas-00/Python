@@ -17,6 +17,7 @@
 # Explanation: Temperature at 36.50 Celsius converted in Kelvin is 309.65 and converted in Fahrenheit is 97.70.
 # Example 2:
 
+
 # Input: celsius = 122.11
 # Output: [395.26000,251.79800]
 # Explanation: Temperature at 122.11 Celsius converted in Kelvin is 395.26 and converted in Fahrenheit is 251.798.
