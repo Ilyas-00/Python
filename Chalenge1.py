@@ -29,7 +29,6 @@
 
 
 
-
 celsius1 = 36.50
 celsius2 = 122.11
 
