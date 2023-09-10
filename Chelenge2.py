@@ -3,6 +3,7 @@
 # A pair (i, j) is called good if nums[i] == nums[j] and i < j.
 
 
+
 # Example 1:
 
 # Input: nums = [1,2,3,1,1,3]
