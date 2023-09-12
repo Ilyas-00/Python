@@ -8,7 +8,7 @@
 # Kelvin = Celsius + 273.15
 # Fahrenheit = Celsius * 1.80 + 32.00
 
-# Example 1:
+# Example 1: 
 
 # Input: celsius = 36.50
 # Output: [309.65000,97.70000]
