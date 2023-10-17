@@ -1,4 +1,4 @@
-Explore my Python Journey here 
+Explore my Python Journey here  
 In this repository, you'll find a collection of Python projects and code snippets that document my journey as I explore the world of Python programming. Whether you're a beginner or an experienced developer, I hope you find something useful and interesting here.
 
 Getting Started
